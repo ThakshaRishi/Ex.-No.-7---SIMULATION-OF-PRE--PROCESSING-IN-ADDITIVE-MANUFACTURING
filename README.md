@@ -45,8 +45,13 @@
 
 ## Output:
 
-### Name:
-### Register Number:
+![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/e0192f83-1fb1-4c77-90fc-2ae1dce88fba)
+
+![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/036c45e4-48a8-4a94-a796-3d8475587ebe)
+
+
+### Name:Thaksha Rishi
+### Register Number:212223100058
 
 ## Result: 
 ### Thus the simulation on the Preprocessing in additive manufacturing is completed.
