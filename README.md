@@ -45,10 +45,11 @@
 
 ## Output:
 
-![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/e0192f83-1fb1-4c77-90fc-2ae1dce88fba)
+![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/4c504057-2f0d-47b3-b76d-ddfa761b6541)
 
-![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/036c45e4-48a8-4a94-a796-3d8475587ebe)
+![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/f1b725b3-59f6-40e9-a953-36dd19ca5f5a)
 
+![image](https://github.com/ThakshaRishi/Ex.-No.-7---SIMULATION-OF-PRE--PROCESSING-IN-ADDITIVE-MANUFACTURING/assets/144870423/460fbbcb-5724-4992-b671-4e8a0e946541)
 
 ### Name:Thaksha Rishi
 ### Register Number:212223100058
